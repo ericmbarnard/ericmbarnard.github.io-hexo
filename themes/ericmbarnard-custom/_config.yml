@@ -1,0 +1,12 @@
+menu:
+  Home: /
+  About: /about
+  Consulting: /consulting
+  Archives: /archives
+
+excerpt_link: Read More
+
+fancybox: true
+
+google_analytics:
+rss:
