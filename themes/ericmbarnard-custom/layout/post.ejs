@@ -30,7 +30,7 @@
 
             </div>
         </div>
-        <% if(config.disqus_shortname){ %>
+        <% if(is_post() && config.disqus_shortname){ %>
             <div class="row">
                 <div  id="disqus_wrapper" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div id="disqus_thread"></div>

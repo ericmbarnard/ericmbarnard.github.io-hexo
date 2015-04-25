@@ -2,7 +2,11 @@
 title: Debugging Elmah on Azure
 subtitle: "What do you do when the error handler is erroring..."
 date: "2012-07-31T12:00:00"
-tags: SQL, Azure
+categories: 
+    - Development
+tags:
+    - SQL
+    - Azure
 ---
 
 Recently I was deploying an application to the new Azure Websites service, and I noticed a slight problem with my app.

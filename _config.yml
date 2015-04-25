@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # turns on logging, etc..
-debug: 1
+debug: 0
 
 # Site
 title: Iterations
@@ -83,7 +83,10 @@ twitter_username: 'ericmbarnard'
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/ericmbarnard/ericmbarnard.github.io.git
+  branch: master
+
 
 #Hexo Clean CSS
 clean_css:

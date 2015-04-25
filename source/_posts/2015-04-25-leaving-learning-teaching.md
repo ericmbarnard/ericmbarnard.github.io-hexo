@@ -1,6 +1,8 @@
 ---
 title: "Leaving, Learning and Teaching"
 date: "2015-04-10T12:00:00"
+categories: 
+    - Life
 tags:
 ---
 
