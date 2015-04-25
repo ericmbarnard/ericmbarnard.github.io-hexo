@@ -12,5 +12,12 @@
 
     <%- partial('_partial/footer') %>
 
+<% if(config.debug){ %>
+<!--
+	config: <%- JSON.stringify(config) %>
+	page: <%- inspect(page) %>
+--!>
+<% } %>
+
 </body>
 </html>

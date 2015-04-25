@@ -10,3 +10,5 @@ fancybox: true
 
 google_analytics:
 rss:
+
+disqus_shortname:
