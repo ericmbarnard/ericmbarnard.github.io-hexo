@@ -43,7 +43,8 @@
                     </li>
                     <% } %>
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; <%= config.author %> <%= (new Date().getFullYear()) %></p>
+                <p class="copyright text-muted">Copyright &copy; <%= config.author %> <%= (new Date().getFullYear()) %> | <%- link_to("/disclaimer", "Disclaimer & Terms") %> | Theme Adapted from <%- link_to("https://github.com/IronSummitMedia/startbootstrap-clean-blog", "Clean Blog", { external: true}) %>
+                </p>
             </div>
         </div>
     </div>
