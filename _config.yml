@@ -69,6 +69,12 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+#markdown settings
+marked:
+  gfm: true
+  tables: true
+  breaks: true
+
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/

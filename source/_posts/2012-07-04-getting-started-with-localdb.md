@@ -49,4 +49,4 @@ If I've created the "Northwind" Named instance as above, and I go to the default
 
 Inside each of these folders are your typical "master.mdf" , "temp.mdf", log files, etc... If you want to create your database's ".mdf" and ".ldf" files in a separate directory, you can easily do that by specifying the location when running a T-SQL statement to "CREATE DATABASE ...". Specifying where your data lives is not really any different than what you've done with SQL Server in the past.
 
-If you want to point your application to specific '.mdf" or ".ldf" files at runtime, you can specify that in your connection string using the "AttachDbFileName" attribute, you can also read more [here]("https://msdn.microsoft.com/en-us/library/hh309441.aspx").
+If you want to point your application to specific '.mdf" or ".ldf" files at runtime, you can specify that in your connection string using the "AttachDbFileName" attribute, you can also read more [here](https://msdn.microsoft.com/en-us/library/hh309441.aspx).

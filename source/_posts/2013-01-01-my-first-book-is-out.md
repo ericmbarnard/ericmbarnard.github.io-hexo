@@ -2,6 +2,8 @@
 title: "My First Book is Out"
 subtitle: "I published my first book - KnockoutJS Starter"
 date: "2013-01-06T21:20:00"
+categories: 
+    - Development
 tags:
     - JavaScript
     - KnockoutJS

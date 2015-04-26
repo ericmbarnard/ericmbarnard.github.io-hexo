@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-Today is my last day at Codagami. It's been almost exactly 3 years since I started, and I can't say enough about how much I've learned and grown over those three years. I'm moving on for a multitude of reasons - some bigger than others and some smaller. But most importantly I'm moving on to continue growing and challenging myself in new directions.
+Today is my last day at Codagami. It's been almost exactly 3 years since I started, and I can't say enough about how much I've learned and grown over those three years. I'm moving on for a multitude of reasons - some bigger than others and some smaller - nothing bad. Most importantly, though, I'm moving on to continue growing and challenging myself in new directions.
 
 ##The Details##
 First, I'm leaving because eventually I'll be starting a new position with our local community college, [Parkland College](http://www.parkland.edu/) as an instructor in their Computer Science and Information Technology department. I'm taking this position because I've always loved the teaching experiences I've had with any role I've been in and I've wanted to get closer to that area with my career moves than further. I'll start by teaching a summer course or two and then begin full-time teaching in the fall.
