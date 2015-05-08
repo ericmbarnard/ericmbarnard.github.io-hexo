@@ -2,6 +2,8 @@ title: "Consulting"
 date: 2015-04-25 12:16:18
 description: "Need Some Help?"
 ---
+I am available for hire through my business, [Barnard Technology Solutions](http://www.barnardtech.com)
+
 I love building and enhancing web applications (or really any software for that matter)! I am glad to help folks looking for assistance with most any software needs!
 
 I carry experience in things like:
@@ -24,4 +26,4 @@ I'd love to sit down and talk about any (or all) of the following:
 * **JavaScript Development**: Have some ideas for some really sweet JavaScript widgets or plugins... but you're not sure how to build them or where to start?
 * **Application Development**: Need a solid, secure, and maintainable website/application built up to the tip of today's standards? Oh and you need it to work on tablets and phones?
 
-Feel free to contact me at: eric.m.barnard (at gmail)
+Feel free to contact me at: eric.m.barnard (at gmail) or [info@barnardtech.com](mailto:info@barnardtech.com) 
